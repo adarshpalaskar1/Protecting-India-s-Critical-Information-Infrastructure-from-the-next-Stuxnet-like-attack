@@ -1,4 +1,4 @@
-# Protecting-India-s-Critical-Information-Infrastructure-from-the-next-Stuxnet-like-attack
+# Microsoft CyberSecurity Engage - Protecting India's CII from the next Stuxnet like attack
 The focus of this paper is to make a cyber security plan for the power grids and the corresponding architecture against a potential  cyber warfare scenario, also considering protecting the future architecture of smart grids, which would involve a lot of IoT devices,  leaving more vulnerabilities in the infrastructure.
 
 ## Overview of the Security Strategy
